@@ -32,7 +32,7 @@ npm run dev
 
 ## Membres du groupe
 
-1. 
+1. TOLIZARA Ronus Eldo  13ISST24-1557FGCI/GINFO
 2. 
 3. 
 4. 
